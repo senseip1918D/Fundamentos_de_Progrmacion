@@ -1,0 +1,17 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ */
+
+package com.mycompany.programa_1;
+
+/**
+ *
+ * @author LaboratorioLTI2
+ */
+public class Programa_1 {
+
+    public static void main(String[] args) {
+        String nombre = "Saul Prado";
+        System.out.println(nombre);
+    }
+}
